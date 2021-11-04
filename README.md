@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Fahad a Data Scientist at PackageX.
+I am Fahad a Junior Data Scientist at PackageX.
 
 <!--
 **mattoofahadx/mattoofahadx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
